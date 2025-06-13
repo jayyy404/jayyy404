@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Student specializing in Artificial Intelligence.<br><br>I am currently working on Mobile App Development to enhance my skill set.
+I am a Computer Science Student specializing in Artificial Intelligence.<br><br>I am currently working on Mobile App Development to enhance my skill set.<br><br>West Visayas State University
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/johmpaul.sapasap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-paul-sapasap-1a21542b3/) 
