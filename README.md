@@ -5,7 +5,7 @@
 
 I’m currently bridging the gap between AI research and practical mobile solutions using Flutter.
 
-[Portfolio](https://sapasapportfolio.vercel.app/) • [LinkedIn](https://linkedin.com) • [Facebook](https://www.facebook.com/johmpaul.sapasap/)
+[Portfolio](https://vercel.app) • [LinkedIn](https://linkedin.com) • [Facebook](https://facebook.com)
 
 ---
 
@@ -21,15 +21,12 @@ I’m currently bridging the gap between AI research and practical mobile soluti
 
 ### 📊 Coding Activity
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="45%" />
-</p>
+![GitHub Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+![Top Languages](https://vercel.app)
+
+<br />
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=jayyy404&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://itsvg.in" alt="Visitor Count" />
 </p>
