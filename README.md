@@ -3,7 +3,7 @@
 **Computer Science Student @ West Visayas State University**  
 *Specializing in Artificial Intelligence & Mobile App Development*
 
-I'm currently bridging the gap between AI research and practical mobile solutions using Flutter.
+I'm currently bridging the gap between AI research and practical mobile solutions using Flutter/React Native.
 
 [Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Facebook](https://facebook.com/yourprofile)
 
