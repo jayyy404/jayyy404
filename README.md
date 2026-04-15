@@ -3,30 +3,39 @@
 **Computer Science Student @ West Visayas State University**  
 *Specializing in Artificial Intelligence & Mobile App Development*
 
-I’m currently bridging the gap between AI research and practical mobile solutions using Flutter.
+I'm currently bridging the gap between AI research and practical mobile solutions using Flutter.
 
-[Portfolio](https://vercel.app) • [LinkedIn](https://linkedin.com) • [Facebook](https://facebook.com)
+[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Facebook](https://facebook.com/yourprofile)
 
 ---
 
 ### 💻 Tech Stack
 
 **Core & AI**  
-![Python](https://shields.io) ![C++](https://shields.io) ![PyTorch](https://shields.io) ![TensorFlow](https://shields.io) ![Scikit-Learn](https://shields.io) ![Pandas](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Mobile & Web**  
-![Flutter](https://shields.io) ![Dart](https://shields.io) ![PHP](https://shields.io) ![MySQL](https://shields.io) ![Firebase](https://shields.io) ![Vercel](https://shields.io)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ### 📊 Coding Activity
 
-![GitHub Stats](https://vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayyy404&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayyy404&layout=compact&theme=dark&hide_border=true)
 
 <br />
-
 <p align="right">
-  <img src="https://itsvg.in" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=jayyy404&icon=0&color=0" alt="Visitor Count" />
 </p>
