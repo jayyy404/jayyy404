@@ -32,6 +32,6 @@ I'm currently bridging the gap between AI research and practical mobile solution
 ### 📊 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayyy404&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyy404&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jayyy404&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_bust=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayyy404&layout=compact&theme=dark&hide_border=true&cache_bust=1" alt="Top Languages" />
 </p>
