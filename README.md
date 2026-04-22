@@ -5,7 +5,7 @@
 
 I'm currently bridging the gap between AI research and practical mobile solutions using Flutter/React Native.
 
-[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Facebook](https://facebook.com/yourprofile)
+[Portfolio](https://sapasap-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/john-paul-sapasap-1a21542b3/) • [Facebook](https://www.facebook.com/johmpaul.sapasap)
 
 ---
 
