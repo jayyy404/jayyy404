@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Computer Science Student @ West Visayas State University**  
+**Software Engineer | Software Developer**  
 *Specializing in Artificial Intelligence & Mobile App Development*
 
 I'm currently bridging the gap between AI research and practical mobile solutions using Flutter/React Native.
